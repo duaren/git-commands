@@ -1,4 +1,4 @@
-Default Git command provide of DZONE Link ===> https://dzone.com/articles/open-source-databases-pros-and-cons-of-3-popular-d
+Default Git command from DZONE Link ===> https://dzone.com/articles/open-source-databases-pros-and-cons-of-3-popular-d
 The [] show the type of content to add
 
 git init [repository name] // Start a new repository.
