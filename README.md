@@ -23,10 +23,11 @@ The **[ ]** show the type of content to add
   - [Git tag](#-git-tag)
   - [Git branch](#-git-branch)
   - [Git checkout](#-git-checkout)
-  - [Git merge](#-git-merge)
+  - [🔃 Git merge](#arrows_clockwise-git-merge)
   - [Git remote](#-git-remote)
-  - [Git push](#-git-push)
-  - [Git stash](#-git-stash)
+  - [⬆️ Git push](#arrow_up-git-push)
+  - [⬇️ Git pull](#arrow_down-git-pull)
+  - [💾 Git stash](#floppy_disk-git-stash)
  
 
 ## 👍 Git init
@@ -117,7 +118,7 @@ The **[ ]** show the type of content to add
 | **git checkout [branch name]**    | Switch from one branch to another.|
 | **git checkout -b [branch name]** | Creates a new branch and also switches to it.|
 
-## Git merge
+## :arrows_clockwise: Git merge
 
 | Command     | Description |
 | ----------- | ----------- |
@@ -129,7 +130,7 @@ The **[ ]** show the type of content to add
 | ----------- | ----------- |
 | **git remote add [variable name] [Remote Server Link]** | Connect your local repository to the remote server.|
 
-## Git push
+## :arrow_up: Git push
 
 | Command     | Description |
 | ----------- | ----------- |
@@ -138,14 +139,14 @@ The **[ ]** show the type of content to add
 | **git push –all [variable name]**           | Pushes all branches to your remote repository.|
 | **git push [variable name] :[branch name]** | Deletes a branch on your remote repository.|
 
-## ⬇️ Git pull
+## :arrow_down: Git pull
 
 | Command     | Description |
 | ----------- | ----------- |
 | **git pull [Repository Link]** | Fetches and merges changes on the remote server to your working directory.|
 
 
-## Git stash
+## :floppy_disk: Git stash
 
 | Command     | Description |
 | ----------- | ----------- |
