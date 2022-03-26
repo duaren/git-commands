@@ -1,4 +1,4 @@
-# <img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> Git command
+# <img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> Git commands
 
 This repository is intended for all those who are new to Git and who want to know the basics
 
@@ -10,7 +10,7 @@ The main goal :
 The **[ ]** show the type of content to add
 
 ## ↪️ Shortcuts
-- [Git command](#-git-command)
+- [Git commands](#-git-commands)
   - [📝 Notice](#-notice)
   - [🆕 Git init](#new-git-init)
   - [ ↔️ Git clone](#left_right_arrow-git-clone)
