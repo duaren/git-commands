@@ -1,8 +1,10 @@
 # <img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> Git command
-Ce dépot est à titre personnel et ouvert à tout ce qui débute sur Git
-Le but principal :
-- Faciliter la prise en main de l'outil Git
-- Avoir une base de commande pour documentation
+
+This repository is intended for all those who are new to Git and who want to know the basics
+
+The main goal :
+- Facilitate the handling of the Git tool
+- Have a command base for documentation
 
 ## 📝 Notice
 The **[ ]** show the type of content to add
