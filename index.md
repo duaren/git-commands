@@ -6,11 +6,11 @@ The main goal :
 - Facilitate the handling of the Git tool
 - Have a command base for documentation
 
-## 📝 Notice
+### 📝 Notice
 The **[ ]** show the type of content to add
 
  
-## 🆕 Git init
+### 🆕 Git init
 
 | Command     | Description |
 | ----------- | ----------- |
